@@ -1,0 +1,6 @@
+*.py[cod]
+*.DS_Store
+.venv
+.idea
+feed.xml
+__pycache__
